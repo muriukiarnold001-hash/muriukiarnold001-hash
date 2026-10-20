@@ -10,14 +10,39 @@ I'm an Actuarial Science undergraduate at Murang'a University of Technology with
 - **Development:** Web application development, debugging, feature integration, and responsive interfaces
 
 ## Selected Projects
+### AgriMall — Agricultural E-commerce Marketplace
+**Status:** In active development
 
-### AgriMall — Agricultural Marketplace
-A web application project focused on connecting agricultural buyers and sellers, featuring product listings, authentication, shopping cart, and checkout functionality.
+AgriMall is an agricultural marketplace project designed to connect buyers and sellers of agricultural products, including seedlings and farming supplies.
 
-### GhostTrack — Location Controls & Tracking
-A collaborative software project involving browser geolocation controls and public-transport tracking functionality. My contribution included integration and troubleshooting to help bring project components together.
+**Technology stack:** JavaScript, HTML, CSS, Firebase Authentication, Cloud Firestore, and Firebase Cloud Functions.
 
-*Some project source code is private. Additional implementation details can be discussed when appropriate.*
+**Development focus:**
+- User authentication and account management
+- Product listings and marketplace interactions
+- Shopping cart and checkout workflows
+- Seller functionality and marketplace infrastructure
+
+The project is undergoing continued development, testing, and refinement before production release. Source code is currently private.
+
+### GhostTrack — Geolocation Controls & Transit Tracking Platform
+
+**Status:** Collaborative project | Source code private
+
+GhostTrack is a location-focused software project combining browser geolocation controls with public transport tracking and route visualization. It brings together interactive mapping, location simulation, and data-driven transit features.
+
+**Technology stack:** JavaScript, HTML, CSS, Python, FastAPI, WebSockets, Leaflet.js, Chart.js, scikit-learn, and NumPy.
+
+**Key capabilities**
+- **Browser geolocation controls:** Allows users to set custom coordinates for supported browser geolocation APIs and websites.
+- **Interactive mapping:** Visualizes locations and routes using mapping tools.
+- **Transit tracking:** Supports public transport visualization and route-related information.
+- **Data-driven predictions:** Incorporates machine-learning components for estimated arrival times.
+- **System integration:** Combines frontend interfaces and backend components into a coordinated application.
+
+**My contribution:** Worked on integrating project components, debugging issues, and improving how the different parts work together.
+
+**Project access:** The source repository is private. Technical implementation details and demonstrations can be discussed when appropriate.
 
 ## Currently
 Building practical software projects, improving my development skills, and looking for opportunities to contribute to software engineering projects.
